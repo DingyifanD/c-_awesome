@@ -1,0 +1,47 @@
+﻿生成启动时间为 2019/6/20 15:14:19。
+     1>项目“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\Client.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\obj\x64\Debug\Client.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       _ValidateSources:
+         Validating sources
+       _CopySources:
+         Copying sources remotely to '192.168.247.166'
+         Skipping copying files as they are up to date.
+       _ValidateValidArchitecture:
+         Validating architecture
+         Current project architecture 'x64' is compatible with the remote system architecture 'x64' ('x64').
+       ClCompile:
+         Starting remote build
+         Compiling sources:
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\AesCrypto.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\BaseShm.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\ClientOP.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\Codec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\CodecFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\Hash.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\main.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\msg.pb.cc', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\RequestCodec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\RequestFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\RespondCodec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\RespondFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\RsaCrypto.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\SecKeyShm.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\TcpSocket.cpp', as it is up to date.
+       Link:
+         Linking objects
+         Invoking 'ld'
+         g++ -o "/root/projects/Client/bin/x64/Debug/Client.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/Client/obj/x64/Debug/AesCrypto.o /root/projects/Client/obj/x64/Debug/BaseShm.o /root/projects/Client/obj/x64/Debug/ClientOP.o /root/projects/Client/obj/x64/Debug/Codec.o /root/projects/Client/obj/x64/Debug/CodecFactory.o /root/projects/Client/obj/x64/Debug/Hash.o /root/projects/Client/obj/x64/Debug/main.o /root/projects/Client/obj/x64/Debug/msg.pb.o /root/projects/Client/obj/x64/Debug/RequestCodec.o /root/projects/Client/obj/x64/Debug/RequestFactory.o /root/projects/Client/obj/x64/Debug/RespondCodec.o /root/projects/Client/obj/x64/Debug/RespondFactory.o /root/projects/Client/obj/x64/Debug/RsaCrypto.o /root/projects/Client/obj/x64/Debug/SecKeyShm.o /root/projects/Client/obj/x64/Debug/TcpSocket.o -lpthread -lprotobuf -lcrypto -ljson -locci -lclntsh
+         Done linking, output file name: '/root/projects/Client/bin/x64/Debug/Client.out'
+         Copying file '/root/projects/Client/bin/x64/Debug/Client.out' to 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\bin\x64\Debug\Client.out'
+         Client.vcxproj -> D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\bin\x64\Debug\Client.out
+       FinalizeBuildStatus:
+         正在删除文件“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\obj\x64\Debug\Client.tlog\unsuccessfulbuild”。
+         正在对“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\obj\x64\Debug\Client.tlog\Client.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Client\Client\Client.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.78

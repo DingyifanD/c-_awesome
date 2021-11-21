@@ -1,0 +1,50 @@
+﻿生成启动时间为 2019/6/20 15:17:30。
+     1>项目“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\Server.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\obj\x64\Debug\Server.tlog\unsuccessfulbuild”执行 Touch 任务。
+       _ValidateSources:
+         Validating sources
+       _CopySources:
+         Copying sources remotely to '192.168.247.166'
+         Skipping copying files as they are up to date.
+       _ValidateValidArchitecture:
+         Validating architecture
+         Current project architecture 'x64' is compatible with the remote system architecture 'x64' ('x64').
+       ClCompile:
+         Starting remote build
+         Compiling sources:
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\AesCrypto.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\BaseShm.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\Codec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\CodecFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\Hash.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\main.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\msg.pb.cc', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\NodeSHMInfo.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\OCCIOP.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\RequestCodec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\RequestFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\RespondCodec.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\RespondFactory.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\RsaCrypto.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\SecKeyShm.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\ServerOP.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\TcpServer.cpp', as it is up to date.
+         Skipping 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\TcpSocket.cpp', as it is up to date.
+       Link:
+         Linking objects
+         Invoking 'ld'
+         g++ -o "/root/projects/Server/bin/x64/Debug/Server.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/Server/obj/x64/Debug/AesCrypto.o /root/projects/Server/obj/x64/Debug/BaseShm.o /root/projects/Server/obj/x64/Debug/Codec.o /root/projects/Server/obj/x64/Debug/CodecFactory.o /root/projects/Server/obj/x64/Debug/Hash.o /root/projects/Server/obj/x64/Debug/main.o /root/projects/Server/obj/x64/Debug/msg.pb.o /root/projects/Server/obj/x64/Debug/NodeSHMInfo.o /root/projects/Server/obj/x64/Debug/OCCIOP.o /root/projects/Server/obj/x64/Debug/RequestCodec.o /root/projects/Server/obj/x64/Debug/RequestFactory.o /root/projects/Server/obj/x64/Debug/RespondCodec.o /root/projects/Server/obj/x64/Debug/RespondFactory.o /root/projects/Server/obj/x64/Debug/RsaCrypto.o /root/projects/Server/obj/x64/Debug/SecKeyShm.o /root/projects/Server/obj/x64/Debug/ServerOP.o /root/projects/Server/obj/x64/Debug/TcpServer.o /root/projects/Server/obj/x64/Debug/TcpSocket.o -lpthread -lprotobuf -lcrypto -ljson -locci -lclntsh
+         Done linking, output file name: '/root/projects/Server/bin/x64/Debug/Server.out'
+         Copying file '/root/projects/Server/bin/x64/Debug/Server.out' to 'D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\bin\x64\Debug\Server.out'
+         Server.vcxproj -> D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\bin\x64\Debug\Server.out
+       FinalizeBuildStatus:
+         正在删除文件“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\obj\x64\Debug\Server.tlog\unsuccessfulbuild”。
+         正在对“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\obj\x64\Debug\Server.tlog\Server.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Videos\35期-项目1\day11 - 数据库操作\04-代码\Server\Server\Server.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.63
